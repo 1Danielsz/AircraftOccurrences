@@ -1,0 +1,26 @@
+Project Documentation
+
+Project Name: Aviation Occurrence Analysis
+
+Author: Daniel Lira
+
+Date: October 20 2023
+
+Libraries and Tools Used:
+
+Python: The project was developed using the Python programming language.
+
+VS Code: The VS Code environment was used for data analysis and code development.
+
+Pandas: Pandas was utilized for data manipulation, cleaning, and analysis.
+
+Matplotlib: Matplotlib was used for data visualization, including the creation of charts and graphs.
+
+NumPy: NumPy was used for numerical operations and data handling.
+
+SciPy: SciPy was used for statistical analysis in specific sections of the project.
+
+Data Sources:
+
+The project's data was sourced from https://dados.gov.br/dados/conjuntos-dados/ocorrencias-aeronauticas-da-aviacao-civil-brasileira, and it was cleaned and preprocessed for analysis.
+
